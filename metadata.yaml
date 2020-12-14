@@ -1,5 +1,8 @@
 _repo: Women-Children-Love-and-Marriage_63898
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63898-h/images/cover.jpg
 creator:
   author:
     agent_name: Hartley, C. Gasquoine (Catherine Gasquoine)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9204
     wikipedia: https://en.wikipedia.org/wiki/Catherine_Gasquoine_Hartley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63898#Women-Children-Love-and-Marriage
 gutenberg_issued: '2020-11-27'
 gutenberg_type: Text
 identifiers:
