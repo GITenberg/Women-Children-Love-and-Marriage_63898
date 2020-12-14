@@ -1,0 +1,29 @@
+_repo: Women-Children-Love-and-Marriage_63898
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hartley, C. Gasquoine (Catherine Gasquoine)
+    aliases:
+    - Gallichan, Walter M., Mrs.
+    - Hartley, Catherine Gasquoine
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '9204'
+    url: http://www.gutenberg.org/2009/agents/9204
+    wikipedia: https://en.wikipedia.org/wiki/Catherine_Gasquoine_Hartley
+description: ''
+gutenberg_issued: '2020-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63898'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic relations'
+- !lcsh 'Women -- Social and moral questions'
+- !lcc 'HQ'
+- GITenberg
+title: Women, Children, Love, and Marriage
+url: http://www.gutenberg.org/ebooks/63898
